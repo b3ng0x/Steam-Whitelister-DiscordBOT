@@ -3,9 +3,9 @@ This is a simple Discord bot that helps you automate your Steam whitelist on you
 
 # HOW TO USE
 npm install  <br />
-npm install -g win-node-env
-npm install discord.js
-npm install mysql
-npm install erlpack
-Change your Bot Token to .env
+npm install -g win-node-env <br />
+npm install discord.js <br />
+npm install mysql <br />
+npm install erlpack <br />
+Change your Bot Token to .env <br />
 And start it with starter.bat
