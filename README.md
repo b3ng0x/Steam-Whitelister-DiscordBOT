@@ -8,6 +8,7 @@ npm install -g win-node-env <br />
 npm install discord.js <br />
 npm install mysql <br />
 npm install erlpack <br />
+[a](https://www.google.com) <br />
 Change your Bot Token to .env <br />
 And start it with starter.bat
-[a link] (https://github.com/user/repo/blob/branch/other_file.md)
+
