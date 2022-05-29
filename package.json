@@ -1,0 +1,44 @@
+{
+  "name": "steam-id-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that will get your steam id",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=production node index.js",
+    "dev": "NODE_ENV=development nodemon index.js"
+  },
+  "author": "b3ng0x",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shadez95/steam-id-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shadez95/steam-id-bot/issues"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "steam",
+    "id"
+  ],
+  "homepage": "https://github.com/shadez95/steam-id-bot",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "erlpack": "github:discord/erlpack",
+    "node-fetch": "^2.1.2",
+    "uws": "^9.148.0",
+    "wait-until": "0.0.2",
+    "winston": "^3.0.0",
+    "xmldom": "^0.1.27"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
