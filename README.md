@@ -9,6 +9,6 @@ npm install discord.js <br />
 npm install mysql <br />
 npm install erlpack <br />
 [a](https://www.google.com) <br />
-Change your Bot Token to .env <br />
-And start it with starter.bat
+[Change your Bot Token to .env ](https://github.com/b3ng0x/Steam-Whitelister-DiscordBOT/blob/main/.env) <br />
+[And start it with starter.bat](https://github.com/b3ng0x/Steam-Whitelister-DiscordBOT/blob/main/BOT%20STARTER.bat)
 
