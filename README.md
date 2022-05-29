@@ -1,5 +1,5 @@
 # Steam-Whitelister-DiscordBOT
-This is a simple Discord bot that helps you automate your Steam whitelist on your RP server using Node.js' discord.js module that allows you to interact with the Discord API
+This is a simple Discord bot that helps you automate your Steam whitelist on your RP server using Node.js discord.js module that allows you to interact with the Discord API
 
 # HOW TO USE
 In souce files dir run :<br />
