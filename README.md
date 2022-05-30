@@ -10,7 +10,7 @@ npm install mysql <br />
 npm install erlpack <br />
 [Change your Bot Token to .env ](https://github.com/b3ng0x/Steam-Whitelister-DiscordBOT/blob/main/.env) <br />
 [And start it with starter.bat](https://github.com/b3ng0x/Steam-Whitelister-DiscordBOT/blob/main/BOT%20STARTER.bat) <br />
-##Screenshot
+## Screenshot
 
 ![](https://github.com/b3ng0x/Steam-Whitelister-DiscordBOT/blob/main/Capture.PNG?raw=true)
 
